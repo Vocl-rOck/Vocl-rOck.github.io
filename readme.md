@@ -9,3 +9,4 @@ my personal blog in besti
  
 ## 操作系统_out on class
   + 第一次课[operation system](https://github.com/Vocl-rOck/vocl-rock.github.io/blob/master/OS_output%20on%20class/operation%20system.md)
+  + 第二次课[opeation system_2ed](https://github.com/Vocl-rOck/vocl-rock.github.io/blob/master/OS_output%20on%20class/operation%20system_2ed.md)
